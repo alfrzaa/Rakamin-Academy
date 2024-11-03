@@ -1,2 +1,2 @@
 # Rakamin-Academy
-Repository ini berisi file-file tugas dari Studi Independen Rakamin Academy - MSIB 7
+Repository ini berisi file-file tugas dari Studi Independen Rakamin Academy - MSIB 7 (Egydia Alfariza Ramadhani)
