@@ -1,2 +1,5 @@
 # Rakamin-Academy
-Repository ini berisi file-file tugas dari Studi Independen Rakamin Academy - MSIB 7 (Egydia Alfariza Ramadhani)
+Repository ini berisi file-file Homework dari Studi Independen Rakamin Academy
+Nama : Egydia Alfariza Ramadhani
+Kelas : IT Full-Stack Developer
+SIB 7
